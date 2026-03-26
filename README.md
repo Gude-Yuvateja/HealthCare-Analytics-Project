@@ -1,3 +1,5 @@
+<img width="1365" height="767" alt="Healthcare Dashboard" src="https://github.com/user-attachments/assets/8125a996-0da6-4251-9ddb-9979b2d51f52" />
+<img width="1362" height="686" alt="Healthcare Excel Dashboard" src="https://github.com/user-attachments/assets/e50fb427-3115-4004-a0f2-c89e0d8c802e" />
 # 📊 HealthCare-Analytics
 
 ---
